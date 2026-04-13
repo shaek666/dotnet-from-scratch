@@ -1,0 +1,6 @@
+@dotnet_from_scratch_HostAddress = http://localhost:5219
+
+GET {{dotnet_from_scratch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

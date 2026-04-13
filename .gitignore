@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+out/
+publish/
+
+# Visual Studio / IDE files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.rsuser
+*.VC.db
+*.VC.VC.opendb
+
+# NuGet / package artifacts
+*.nupkg
+*.snupkg
+artifacts/
+
+# Test output
+TestResults/
+*.trx
+
+# Logs
+*.log
